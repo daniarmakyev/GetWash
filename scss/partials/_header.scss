@@ -1,0 +1,33 @@
+
+.navbar-nav {
+    margin-left: 5.4%;
+}
+
+.nav-link {
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.nav-link:hover {
+    text-decoration: underline !important;
+}
+
+.haeder__btn {
+    color: #446DF6;
+    border: 2px solid #E5E5E5;
+    border-radius: 6px;
+    background-color: transparent;
+    max-width: 170px;
+    padding: 14px;
+    max-height: 50px;
+    float: right;
+    margin-left: 5%;
+}
+
+.haeder__btn:active {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.search__title {
+    max-width: 620px;
+}

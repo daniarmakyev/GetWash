@@ -1,0 +1,397 @@
+@media screen and (max-width: 400px) {
+
+    .search__title {
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 125%;
+        max-width: 300px;
+        text-align: center;
+    }
+
+    .search__p {
+        text-align: center;
+        min-width: 281px;
+        font-size: 16px;
+        min-height: 91px;
+    }
+
+
+    .start {
+        padding-left: 10px;
+    }
+
+    .locate {
+        padding: 0;
+    }
+
+    .locate-block {
+        margin: 0;
+    }
+
+    .locate__title {
+        font-size: 21px;
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .search__btn {
+        margin-left: 10%;
+    }
+
+    .locate-mini {
+        display: block;
+        float: left;
+        width: 100%;
+    }
+
+    .mailing-email {
+        width: 280px !important;
+        margin-right: 0 !important;
+    }
+
+    .mailing-send {
+        width: 280px !important;
+    }
+
+    .review {
+        margin-top: 12px;
+    }
+
+    .reviews__title {
+        margin-left: 15% !important;
+    }
+
+    .list__li {
+        padding-left: 30px !important;
+        margin-top: 110px;
+        max-width: 275px;
+    }
+
+    .prof {
+        margin-left: 10px;
+    }
+
+    .list__1 {
+        left: 42%;
+        bottom: 100px;
+    }
+
+    .reviews {
+        margin: 0 !important;
+        margin-top: 90px !important;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .haeder__btn {
+        margin-right: 0;
+    }
+
+    .search__title {
+        font-size: 25px;
+    }
+
+    .search__P {
+        font-size: 17px;
+        line-height: 140%;
+    }
+
+    .locate__title {
+        font-size: 25px;
+        margin-left: 20%;
+    }
+
+
+
+    .list__p {
+        font-size: 14px;
+        text-align: center;
+        max-width: 250px;
+        min-width: 200px;
+    }
+
+    .list__title {
+        font-size: 16px;
+        text-align: center;
+        max-width: 275px;
+        min-width: 200px;
+    }
+
+    .start-list {
+        max-width: 340px;
+        margin: 0;
+        float: none;
+    }
+
+    .list__li {
+        padding-left: 60px;
+    }
+
+    .list__1 {
+        padding: 12px;
+    }
+
+    .partner__p span {
+        font-size: 14px;
+    }
+
+    .partner__title {
+        font-size: 18px;
+    }
+
+    .parther_list li {
+        width: 300px;
+    }
+
+    .mailing-send {
+        width: 283px;
+    }
+
+    .mailing-email {
+        margin-bottom: 19px;
+    }
+
+    .mailing-title {
+        font-size: 24px;
+        line-height: 29px;
+    }
+
+    .reviews__title {
+        font-size: 18px !important;
+        text-align: center;
+        display: inline-block;
+        width: 226px;
+        display: block;
+        margin-left: 24%;
+    }
+
+    .user-info {
+        margin-top: 50px;
+        padding-left: 24%;
+        margin-bottom: 40px;
+    }
+
+    .comment {
+        font-size: 14px;
+        max-width: 290px;
+        margin-left: 18% !important;
+        text-align: center;
+        display: block;
+    }
+
+
+    .locate-mini {
+        width: 250px;
+    }
+
+
+    .locate-block {
+        display: none;
+    }
+}
+
+@media screen and (min-width:600px) {
+
+    .locate-mini {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 995px) {
+
+    .haeder__btn {
+        margin: 0 auto;
+    }
+
+    .wash_search {
+        margin-top: 36px;
+    }
+
+    .main-pic {
+        display: none;
+    }
+
+    .mailing-block {
+        height: 304px;
+        max-height: 90%;
+        margin-top: 50px;
+    }
+
+    .mailing-form {
+        float: left !important;
+    }
+
+    .mailing-title {
+        float: none;
+        display: block !important;
+    }
+
+    .haeder__btn {
+        margin: 0 auto !important;
+        display: block;
+    }
+
+    .phones {
+        display: none;
+    }
+
+    .beta__title {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .beta-test {
+        height: auto;
+    }
+
+    .beta__p {
+        margin: 0 auto;
+        text-align: center;
+        max-width: 279px;
+    }
+
+    .beta__links {
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .beta__links a {
+        margin-top: 17px;
+        display: block;
+        margin-right: 4px;
+        margin-left: 4px;
+    }
+
+    .beta__links:last-child {
+        padding-bottom: 43px;
+    }
+
+    .beta-content {
+        padding: 0 !important;
+    }
+
+    .user-info {
+        margin-top: 20px;
+      float: left;
+      display: block !important;
+    }
+
+    .comment {
+        font-size: 14px;
+        word-wrap: normal;
+        margin-left: 50px;
+    }
+
+
+    .reviews__title {
+        font-size: 30px;
+    }
+
+    .footer {
+        margin-top: 100px;
+        height: 125px;
+    }
+
+    .footer span {
+        margin: 0 auto;
+        float: none;
+        display: block;
+        width: 231px;
+        text-align: center;
+    }
+
+    .parther_list li {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+
+
+
+
+
+    .locate__title {
+        margin-top: 23px;
+        max-width: 50%;
+    }
+
+
+    .partner__p span {
+        display: block;
+        line-height: 140%;
+        margin-top: 20px;
+    }
+
+    .navbar-nav {
+        margin: 0;
+    }
+
+    .haeder__btn {
+        margin: 0;
+    }
+
+    .beta__title {
+        font-size: 28px;
+    }
+
+    .phones {
+        top: -33px;
+        right: -10px;
+        width: 480px;
+    }
+
+    .beta__p {
+        font-size: 16px;
+        max-width: 330px;
+    }
+
+    .locate-block {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1051px) {
+    .phone-mini {
+        display: none;
+    }
+
+
+
+    .review__img {
+        left: -10px;
+    }
+}
+
+@media screen and (max-width: 1360px) {
+
+    .main-pic {
+        top: -10%;
+        right: 0;
+        width: 50%;
+    }
+
+
+}
+
+@media screen and (max-width: 1600px) {
+    .locate-block {
+        margin: 0;
+        max-width: 40%;
+        padding: 0;
+    }
+
+    .locate-block img {
+        max-width: 100%;
+    }
+
+}
