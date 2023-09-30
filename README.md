@@ -36,7 +36,7 @@
 
 
 ```
-![logo](img/header-pic-md.png)
+![logo](img/header-pic-md.PNG)
 
 ## Команда проекта
 
